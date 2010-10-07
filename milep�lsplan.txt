@@ -1,0 +1,27 @@
+Milepælsplan
+ 
+Status	Aktivitet	Beskrivelse		Ansvarlig	Ferdig
+OK	Bestemme tema	Hva vi skal jobbe med	Alle	04.10.2010
+OK	Fordeling av oppgaven	Fordele arbeidet  	Alle	12.10.2010
+OK	Lagringsplattform	Felles lagringsenhet	Alle	04.10.2010
+OK	Samarbeidskontrakt	Dokumenterer avtalene våre	Viji	05.10.2010
+OK	Risikoplan	Hvilke problemer vi kan møte og hvordan vi hindrer	Kristoffer 	07.10.2010
+OK	Første utkast 	Lage førsteutkast av siden	Kristina	06.10.2010
+OK	Innføring	Innføring av styringsdokumentene	Stafeni	12.10.2010
+Ikke startet	Leveranse 1	Laste opp dokumenter	Gruppen	13.10.2010
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
